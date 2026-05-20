@@ -32,7 +32,7 @@ Lista-de-tarefas/
 ├── js/
 │   └── script.js
 └── index.html
-
+```
 ## Aprendizados
 
 Neste projeto, pratiquei conceitos importantes de JavaScript, como manipulação do DOM, eventos, arrays, objetos, funções e uso do localStorage para armazenar informações no navegador.
