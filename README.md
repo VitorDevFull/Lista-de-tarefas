@@ -32,3 +32,17 @@ Lista-de-tarefas/
 ├── js/
 │   └── script.js
 └── index.html
+
+## Aprendizados
+
+Neste projeto, pratiquei conceitos importantes de JavaScript, como manipulação do DOM, eventos, arrays, objetos, funções e uso do localStorage para armazenar informações no navegador.
+
+Também pratiquei a organização de arquivos em pastas separadas para HTML, CSS e JavaScript, além da criação de um layout responsivo para diferentes tamanhos de tela.
+
+## Status do projeto
+
+Projeto finalizado.
+
+## Autor
+
+Desenvolvido por Vitor Nascimento.
