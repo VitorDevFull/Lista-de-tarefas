@@ -43,6 +43,12 @@ Também pratiquei a organização de arquivos em pastas separadas para HTML, CSS
 
 Projeto finalizado.
 
+## Acesse o projeto
+
+Você pode visualizar o projeto online pelo GitHub Pages:
+
+https://vitordevfull.github.io/lista-de-tarefas/
+
 ## Autor
 
 Desenvolvido por Vitor Nascimento.
